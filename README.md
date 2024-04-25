@@ -5,7 +5,7 @@ simplicity, and speed. Powered by the latest models from 12 vendors and
 open-source servers, `big-AGI` offers best-in-class Chats,
 [Beams](https://github.com/enricoros/big-AGI/issues/470),
 and [Calls](https://github.com/enricoros/big-AGI/issues/354) with AI personas,
-visualizations, coding, drawing, side-by-side chatting, and more -- all wrapped in a polished UX.
+visualizations, coding, drawing, side-by-side chatting, and more -- all wrapped in a polished.
 
 Stay ahead of the curve with big-AGI. 🚀 Pros & Devs love big-AGI. 🤖
 
